@@ -12,3 +12,4 @@ C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.pdb
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.genruntimeconfig.cache
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\ref\OOPExam.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.sourcelink.json

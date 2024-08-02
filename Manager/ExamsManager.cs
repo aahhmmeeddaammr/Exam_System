@@ -33,20 +33,6 @@ namespace OOPExam.Manager
                 Console.WriteLine("NO EXAMS NOW");
             }
         }
-        private static void GetSubjectFromUser()
-        {
-            string? subject = string.Empty;
-            do
-            {
-                subject = Console.ReadLine();
-            } while (subject == null);
-            Exam? ourExam = _exams.Find(E => E.Subject == subject);
-            if (ourExam == null)
-            {
-                Console.WriteLine("Invalid Subject");
-                GetSubjectFromUser();
-            }
-        }
         public static void RunApp()
         {
             Console.WriteLine("**************************Welcome!!**************************");

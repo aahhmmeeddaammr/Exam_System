@@ -99,20 +99,26 @@ namespace OOPExam.Manager
                 {
                     Console.WriteLine("Enter Mark : ");
                 } while (!int.TryParse(Console.ReadLine(), out mark)); // mark 
-                Answers = new Answer[2]
+                Answers = new Answer[3];
+                for (int j = 0; j < 3; j++)
                 {
-                        new Answer(0,"True"),
-                        new Answer(1, "False")
-                };
+                    string? txt;
 
-
+                    do
+                    {
+                        Console.WriteLine($"Enter Answer Text ID : {j}");
+                        txt = Console.ReadLine();
+                    } while (txt == null);
+                    Answer newAns = new Answer(j, txt);
+                    Answers[j] = newAns;
+                }
                 int id;
                 do
                 {
-                    Console.WriteLine("Enter Id Of Correct Answer (0 For True , 1 For False )");
-                } while (!int.TryParse(Console.ReadLine(), out id) || (id < 0 || id > 1));
+                    Console.WriteLine("Enter ID Of Correct Answer");
+                } while (!int.TryParse(Console.ReadLine(), out id));
                 CorrectAnswer = Answers[id];
-                questions[i] = new TrueOrFalseQuestion(body, mark, Answers, CorrectAnswer);
+                questions[i] = new MSQ(body, mark, Answers, CorrectAnswer);
 
             }
         }
@@ -174,7 +180,7 @@ namespace OOPExam.Manager
                         Console.WriteLine("Enter ID Of Correct Answer");
                     } while (!int.TryParse(Console.ReadLine(), out id));
                     CorrectAnswer = Answers[id];
-                    questions[i] = new TrueOrFalseQuestion(body, mark, Answers, CorrectAnswer);
+                    questions[i] = new MSQ(body, mark, Answers, CorrectAnswer);
 
                 }
                 else if (header == 2)
@@ -192,7 +198,7 @@ namespace OOPExam.Manager
                         Console.WriteLine("Enter Id Of Correct Answer (0 For True , 1 For False )");
                     } while (!int.TryParse(Console.ReadLine(), out id) || (id < 0 || id > 1));
                     CorrectAnswer = Answers[id];
-                    questions[i] = new MSQ(body, mark, Answers, CorrectAnswer);
+                    questions[i] = new TrueOrFalseQuestion(body, mark, Answers, CorrectAnswer);
 
                 }
 

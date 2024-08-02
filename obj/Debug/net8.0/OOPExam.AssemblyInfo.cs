@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc4576fbc14969a3611e14c9d5552b2e7d015d60")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

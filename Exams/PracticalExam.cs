@@ -30,7 +30,7 @@ namespace OOPExam.Exams
                 }
                 else
                 {
-                    answers[i] = ($"Question number {i} => Wrong Answer!!");
+                    answers[i] = ($"Question number {i} => Wrong Answer!! The Correct Answer Is {questions[i].CorrectAnswerOfQuestion}");
 
                 }
             }

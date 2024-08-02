@@ -28,9 +28,9 @@ namespace OOPExam.Questions
 		{
 			get { return Answers; }
 		}
-		public Answer CorrectAnswerOfQuestion
+		public string CorrectAnswerOfQuestion
 		{
-			get { return CorrectAnswer; }
+			get { return CorrectAnswer.AnswerText; }
 		}
 
 		public Question(string _header , string _body ,int _mark, Answer[] _answers , Answer _CorrectAnswer)
