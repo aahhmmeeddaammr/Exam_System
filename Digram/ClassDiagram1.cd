@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPExam.Exams.Exam">
+    <Position X="5.25" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAIAAAACAACQFAAAAARAAAAAAACA=</HashCode>
+      <FileName>Exams\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Exams.FinalExam">
+    <Position X="10" Y="3.5" Width="2" />
+    <InheritanceLine Type="OOPExam.Exams.Exam" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="3.486" />
+        <Point X="8.49" Y="3.486" />
+        <Point X="8.49" Y="3.377" />
+        <Point X="11" Y="3.377" />
+        <Point X="11" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exams\FinalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Exams.PracticalExam">
+    <Position X="9.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Exams\PracticalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Manager.ExamBuilder">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAQgAAAIAAwAABBAYAAAAAAAAAA=</HashCode>
+      <FileName>Manager\ExamBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Manager.ExamsManager">
+    <Position X="6.25" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAABAAAEAAAAACAAAAAAA=</HashCode>
+      <FileName>Manager\ExamsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Subjects.Subject">
+    <Position X="9.5" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAEIAAAAAAAAAAAAAAAAAQAACAAAAA=</HashCode>
+      <FileName>Subjects\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Questions.TrueOrFalseQuestion">
+    <Position X="4" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Questions\TrueOrFalseQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Questions.Question">
+    <Position X="0.5" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BABAAAQgAAAAAgAAAAABAAAAAQAAAABAQCCAAAAAgAA=</HashCode>
+      <FileName>Questions\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Questions.MSQ">
+    <Position X="4" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Questions\MSQ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

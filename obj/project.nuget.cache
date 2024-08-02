@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NhYvTLaaz9gCy2MFMoBZ/rdrARTmdCNVQfQ5XzmpviIEAGg0a6AE0ALC4JWxoYEhXlvKUs95oynlpvabNTXa0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\4.Advanced C#\\OOPExam\\OOPExam\\OOPExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

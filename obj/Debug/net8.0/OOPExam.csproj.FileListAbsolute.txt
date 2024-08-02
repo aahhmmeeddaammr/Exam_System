@@ -1,0 +1,14 @@
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\bin\Debug\net8.0\OOPExam.exe
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\bin\Debug\net8.0\OOPExam.deps.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\bin\Debug\net8.0\OOPExam.runtimeconfig.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\bin\Debug\net8.0\OOPExam.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\bin\Debug\net8.0\OOPExam.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\refint\OOPExam.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\OOPExam.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\4.Advanced C#\OOPExam\OOPExam\obj\Debug\net8.0\ref\OOPExam.dll
